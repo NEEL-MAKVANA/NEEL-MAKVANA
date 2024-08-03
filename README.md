@@ -52,9 +52,3 @@
 </p>
 
 
-
-
-### 🔥 GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neel-makvana&" alt="neel-makvana" /></p>
-
-
