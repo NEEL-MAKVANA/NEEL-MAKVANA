@@ -57,17 +57,4 @@
 ### 🔥 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neel-makvana&" alt="neel-makvana" /></p>
 
-### 📈 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neel-makvana&theme=dracula" alt="neel-makvana" />
-</p>
-
-### 🏅 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neel-makvana&theme=onedark" alt="neel-makvana" />
-</p>
-
-### 📊 Most Used Languages:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neel-makvana&show_icons=true&locale=en&layout=compact" alt="neel-makvana" /></p>
-
 
